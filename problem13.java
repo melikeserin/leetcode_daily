@@ -20,6 +20,6 @@ class Solution{
       }
    }
     result +=map.get(chars[i]);
-    return result;i
+    return result;
   }
 }
